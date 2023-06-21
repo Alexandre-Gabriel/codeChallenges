@@ -32,5 +32,4 @@
 *.app
 
 # Images
-.images
-.images/*
+images/
