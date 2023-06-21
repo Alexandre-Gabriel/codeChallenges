@@ -1,0 +1,3 @@
+C:/Users/al-gabriel/OneDrive - CRITICAL SOFTWARE, S.A/Documents/codeChallenges/cmake-build-debug/CMakeFiles/codeChallenges.dir
+C:/Users/al-gabriel/OneDrive - CRITICAL SOFTWARE, S.A/Documents/codeChallenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/al-gabriel/OneDrive - CRITICAL SOFTWARE, S.A/Documents/codeChallenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
